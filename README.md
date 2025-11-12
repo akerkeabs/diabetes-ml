@@ -33,8 +33,8 @@ This notebook demonstrates an end-to-end ML workflow:
 | Decision Tree (depth = 4) | 0.74 | 0.59 | 0.49 | 0.54 | 0.75 |
 | Random Forest | **0.74** | **0.62** | **0.54** | **0.59** | **0.82** |
 
-** Best model:** Random Forest (ROC-AUC = 0.82)  
-** Top features:** Glucose, BMI, Age  
+**Best model:** Random Forest (ROC-AUC = 0.82)  
+**Top features:** Glucose, BMI, Age  
 
 ---
 
