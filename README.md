@@ -92,10 +92,6 @@ This project is released under the MIT License.
 ---
 
 ## **Author:**
-Akerke Absalykova
+Akerke A
 
 Data Science Portfolio 2025
-
-[GitHub Profile](https://github.com/akerkeabs)
-
-[LinkedIn](https://www.linkedin.com/in/akerke-absalykova/)
